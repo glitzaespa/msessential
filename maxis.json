@@ -1,1 +1,22 @@
-
+{
+"ball": [
+  {
+    "pool":"The Hair Ball;The Bitch Ball;The Sugar Ball;The Glitter Ball;The Hello Kitty Ball;The Book Ball;The Monster Ball;The Balls Ball;The Bag Ball;The Crystal Ball;The Mother of All Balls"
+  }
+  ],
+"design": [
+  {
+    "pool":"Welcome to the DollHouse;House of Fashion;Glamazon Prime;Drag on a Dime"
+  }
+  ],
+"finale": [
+  {
+    "pool":"Blame It On The Edit;Catwalk;Lucky;Queens Everywhere;American;Category Is"
+  }
+  ],
+"girlgroups": [
+  {
+    "pool":"edit;catwalk;condragulations;phenomenon;imthatbitch;youdontknowme;asmrlover;starbaby;couragetolove;goldenyears;goldengirlfriends;goldenhips;badboybaby;hesmybaby;mybabyislove;sittingonasecret;dragupyourlife;dontfunkitup;everybodysaylove;iminlove;showupqueen;glamrock;discomix;breakupfc;breakupfm;ukuk;ukbd;dontickff;donticktm52;bonjourhisrv;bonjourhitouche;bonjourhimaple"
+  }
+  ]
+}
