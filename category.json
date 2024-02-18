@@ -1,0 +1,77 @@
+{
+"colors": [
+  {
+    "pool":"Amazing in Yellow;Basic Beige;Beautiful in Black;Brilliant in Blue;Captivating Crowns;Golden Glamour;Grayscale Greatness;Monochromatic;Barbie Pink;Neon Nights;Orange You Glad...;Pastel Colors;Pretty in Pink;Pride Flags;Primary Colors;Purple People;Red for Filth;Red, White and Blue;Sleek in Silver;White Party;Neutrals Only",
+  }
+  ],
+"decades": [
+  {
+    "pool":"50s;60s;70s;80s;90s;Historical Figures;Historical Silhouettes;Prehistoric;Retro;Vintage;Disco",
+  }
+  ],
+"scifi": [
+  {
+    "pool":"Cyberpunk;Futuristic Fashion;Intergalactic;Out of this World;Planets;Robots on the Runway",
+  }
+  ],
+"clothing": [
+  {
+    "pool":"Beautiful Bags;Big Hair Everywhere;Boas;Body-ody Suits;Boots the Haus Down;Engaging Earrings;Gowns Galore;Hats Incredible;Horrid Horns;Mask Mania;Pants on the Runway;Ruffle Realness;Shoulder Pads;Sword Fight;Tu-Tu Much;Under My Umbrella;Where are the Wings?",
+  }
+  ],
+"situational": [
+  {
+    "pool":"Bridal Beauties;Daytime Drag;Executive Realness;Funeral Attire;Masquerade Party;Military Queens;Occupations;Pride Party;Secret Spies;Slumber Party;Sport SuperStars;Vegas Showgirls",
+  }
+  ],
+"identity": [
+  {
+    "pool":"Best Drag;Birthstones;Hometown Looks;Make a Statement Couture;Quick Drag on the Runway;Ugliest Drag Ever;What's Your Culture?;Zodiac Signs",
+  }
+  ],
+"aesthetics": [
+  {
+    "pool":"Biker Blitz;Bohemian;Camp Queens;Candy Couture;Circus Clowns;Club Kid Coture;Cute and Kawaii;Dolls;Gothic Glamour;Pageant Queens;Pirates;Punk Rock;Red Carpet;Steampunk;Whatever, Nerds;Wild West Rodeo;Y2K Couture",
+  }
+  ],
+"elements": [
+  {
+    "pool":"Autumn is Here;Day at the Beach;Elemental Powers;Favorite Holiday;Fire and Flames;Ice Queens;Pool Party;Rainy Days;Spring Is Here;Summer Season;Wet in Water;Winter Wonderland;Spring Garden",
+  }
+  ],
+"referential": [
+  {
+    "pool":"Cartoons;Cosplay Runway;Favorite Drag Queen;Met Gala Madness;Video Game Characters;The RuGirl Library",
+  }
+  ],
+"celebrities": [
+  {
+    "pool":"Night of 1000 RuPauls;Everything Every-Cher All At Once;Night of 1000 Selenas;Night of 1000 Gagas;Night of 1000 Rihannas;Night of 1000 Beyoncés;Night of 1000 Pop Divas;Rock Stars;Hollywood Stars;Significant Mother;Broadway;Night of 1000 Dolly Partons",
+  }
+  ],
+"patterns": [
+  {
+    "pool":"Animal Print;Color Blocking;Dazzled in Diamonds;Denim Divas;Feathers;Flower Power;Fringe Fantasy;To Die Fur;Geometric Eleganza;Glitter Girls;Latex Eleganza;Leather Ladies;Lushious Lace;Mad for Plaid;Polka Dots;Prints and Patterns;Sassy Sequins;Stripes;Wrapped in Chains",
+  }
+  ],
+"nature": [
+  {
+    "pool":"Animal Kingdom;Aquatic Creatures;Bugs and Beetles;Butterfly Beauties;Canine Couture;Fruits and Vegetables;In the Jungle;Kitty Kouture;Natural Disasters;Purr-fect Pets;Under the Sea;Woodland Creatures",
+  }
+  ],
+"fantasy": [
+  {
+    "pool":"Ethereal Beings;Fairies;Fallen Angels;Fallen Fairytales;Fantasy Dreams;Greek Goddesses;Heavenly Bodies;Magical Girls;Mythical Creatures;Myths;Princess Power;Sirens and Mermaids;Superheroes;Witches and Warlocks",
+  }
+  ],
+"misc": [
+  {
+    "pool":"Baby Drag;Catalog Crazy;Drag Kings;Drag on a Dime;Elderly Drag;Emotions Extravaganza;Hearts and Heartbreak;Money, Honey!;Ruveal Yourself;Style the assigned accessory",
+  }
+  ],
+"edgy": [
+  {
+    "pool":"7 Deadly Sins;Sea Monsters;Scary n' Spooky;Blood Bath;Monsters Under the Bed;Death Becomes Her;Villains;Trash, Garbage, Filth;Criminals"
+  }
+  ]
+}
