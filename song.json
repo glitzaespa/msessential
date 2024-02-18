@@ -119,5 +119,225 @@
     "runway":"-",
     "cut":"https://www.youtube.com/watch?v=7Q0Vg0-e6Ww"
   }
+  ],
+"p12": [
+  {
+    "name":"Vogue",
+    "artist":"Madonna",
+    "album":"I'm Breathless: Music from and Inspired by the Film Dick Tracy",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/8/81/Madonna%2C_Vogue_cover.png",
+    "genre":"house",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=ePbPdKfrYpU&pp=ygUadm9ndWUgbWFkb25uYSAgbGlwc3luYyBjdXQ%3D"
+  }
+  ],
+"p13": [
+  {
+    "name":"Born This Way",
+    "artist":"Lady Gaga",
+    "album":"Born This Way",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/a/ad/Lady_Gaga_-_Born_This_Way_%28single%29.png",
+    "genre":"electropop, house",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=1aoXsle9LiE&pp=ygUZYm9ybiB0aGlzIHdheSBsaXBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p14": [
+  {
+    "name":"It's Raining Men (The Sequel)",
+    "artist":"Martha Wash and RuPaul",
+    "album":"The Collection and RuPaul's Go-Go Box Classics",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/8/89/Martha_Wash-It%27s_Raining_Men..._The_Sequel.jpg",
+    "genre":"eurodance",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=-NQPhG9H8a4&pp=ygUpSXQncyBSYWluaW5nIE1lbiAoVGhlIFNlcXVlbCkgbGlwc3luYyBjdXQ%3D"
+  }
+  ],
+"p15": [
+  {
+    "name":"(You Make Me Feel Like) A Natural Woman",
+    "artist":"Aretha Franklin",
+    "album":"The Collection and RuPaul's Go-Go Box Classics",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/1/17/ArethaFranklinLadySoul.jpg",
+    "genre":"soul",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=6E2l1miYPY0&pp=ygUzKFlvdSBNYWtlIE1lIEZlZWwgTGlrZSkgQSBOYXR1cmFsIFdvbWFuIGxpcHN5bmMgY3V0"
+  }
+  ],
+"p16": [
+  {
+    "name":"Glamazon",
+    "artist":"RuPaul",
+    "album":"Glamazon",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/0/05/RuPaulGlamazon.png",
+    "genre":"dance, electropop, house",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=9qjsGUSW84o&pp=ygUUZ2xhbWF6b24gbGlwc3luYyBjdXQ%3D"
+  }
+  ],
+"p17": [
+  {
+    "name":"Party in the U.S.A.",
+    "artist":"Miley Cyrus",
+    "album":"The Time of Our Lives",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/b/b4/The_Time_of_Our_Lives.jpeg",
+    "genre":"pop rock",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=8awkQDVZyOM&pp=ygUccGFydHkgaW4gdGhlIHVzYSBsaXBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p18": [
+  {
+    "name":"Only Girl (In the World)",
+    "artist":"Rihanna",
+    "album":"Loud",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/a/ab/Only_Girl_%28In_the_World%29.png",
+    "genre":"dance pop, eurodance",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=0w5q5h13dCI&pp=ygUVb25seSBnaXJsIGxpcHN5bmMgY3V0"
+  }
+  ],
+"p19": [
+  {
+    "name":"When I Grow Up",
+    "artist":"The Pussycat Dolls",
+    "album":"Doll Domination",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/1/1c/When_I_Grow_Up.png",
+    "genre":"electropop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=v5MbwDNS-XM&pp=ygUbd2hlbiBpIGdyb3cgdXAgbGlwIHN5bmMgY3V0"
+  }
+  ],
+"p20": [
+  {
+    "name":"Oops!... I Did It Again",
+    "artist":"Britney Spears",
+    "album":"Doll Domination",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/4/46/Oops%21..._I_Did_It_Again.png",
+    "genre":"dance pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=WWn_4j-KwcQ&pp=ygUTb29wcyBpIGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p21": [
+  {
+    "name":"Whip My Hair",
+    "artist":"Willow Smith",
+    "album":"Whip My Hair",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/1/12/Whip_My_Hair_Single_Cover.jpg",
+    "genre":"r&b, hip hop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=XnKLxJgNFzU&pp=ygUZd2hpcCBteSBoYWlyIGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p22": [
+  {
+    "name":"Cold Hearted",
+    "artist":"Paula Abdul",
+    "album":"Forever Your Girl",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/8/87/Paula_Abdul_-_Cold_Hearted.jpg",
+    "genre":"new jack swing, dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=lYwaTELOn5M&pp=ygUYY29sZCBoZWFydGUgbGlwIHN5bmMgY3V0"
+  }
+  ],
+"p23": [
+  {
+    "name":"Express Yourself",
+    "artist":"Madonna",
+    "album":"Like a Prayer",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/9/99/Madonna%2C_Express_Yourself_single_cover.png",
+    "genre":"dance pop, deep funk",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=pHV617ZHhtM&pp=ygUdZXhwcmVzcyB5b3Vyc2VsZiBsaXAgc3luYyBjdXQ%3D"
+  }
+  ],
+"p24": [
+  {
+    "name":"Shake It Up",
+    "artist":"Selena Gomez",
+    "album":"Shake It Up: Break It Down",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/e/ef/Shake_It_Up_Break_It_Down_cover.jpg",
+    "genre":"pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=zDDbQJqIOEE&pp=ygUYc2hha2UgaXQgdXAgbGlwIHN5bmMgY3V0"
+  }
+  ],
+"p25": [
+  {
+    "name":"Stronger (What Doesn't Kill You)",
+    "artist":"Kelly Clarkson",
+    "album":"Stronger",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/9/91/WDKYSingleCover.jpg",
+    "genre":"dance-pop, electropop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=QmzRxcRSct0&pp=ygUuc1N0cm9uZ2VyIChXaGF0IERvZXNuJ3QgS2lsbCBZb3UpIGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p26": [
+  {
+    "name":"Sissy That Walk",
+    "artist":"RuPaul",
+    "album":"Born Naked",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/e/ee/Born_Naked_album_cover.jpg",
+    "genre":"dance-pop, electropop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=uqfR_t68RVE&pp=ygUcc2lzc3kgdGhhdCB3YWxrIGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p27": [
+  {
+    "name":"I Was Gonna Cancel",
+    "artist":"Kylie Minogue",
+    "album":"Kiss Me Once",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/d/d0/Kylie_Minogue_-_I_Was_Gonna_Cancel.png",
+    "genre":"disco, funk, pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=52sTWYHsO7I&pp=ygUfaSB3YXMgZ29ubmEgY2FuY2VsIGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p28": [
+  {
+    "name":"Break Free",
+    "artist":"Ariana Grande, Zedd",
+    "album":"My Everything",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/e/e3/Ariana_Grande_-_Break_Free_ft_Zedd_cover_art.png",
+    "genre":"electrohouse, synth-pop, edm",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=52sTWYHsO7I&pp=ygUfaSB3YXMgZ29ubmEgY2FuY2VsIGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p29": [
+  {
+    "name":"Really Don't Care",
+    "artist":"Demi Lovato, Cher Lloyd",
+    "album":"Demi",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/6/63/Demi_Lovato_Really_Don%27t_Care_%28Official_Single_Cover%29.png",
+    "genre":"dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=fdGcF4C8whg&pp=ygUdcmVhbGx5IGRvbnQgY2FyZSBsaXAgc3luYyBjdXQ%3D"
+  }
+  ],
+"p30": [
+  {
+    "name":"Roar",
+    "artist":"Katy Perry",
+    "album":"Prism",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/4/41/Katy_Perry_-_Roar.png",
+    "genre":"power pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=0gXUkB8TEPE&pp=ygURcm9hciBsaXAgc3luYyBjdXQ%3D"
+  }
+  ],
+"p31": [
+  {
+    "name":"Applause",
+    "artist":"Lady Gaga",
+    "album":"Artpop",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/6/60/Applause_-_Lady_Gaga.png",
+    "genre":"electropop, dancepop, eurodance",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=BuHHePfT0FA&pp=ygUVYXBwbGF1c2UgbGlwIHN5bmMgY3V0"
+  }
   ]
 }
