@@ -64,5 +64,60 @@
     "runway":"-",
     "cut":"https://www.youtube.com/watch?v=wsV_VoUztds"
   }
+  ],
+"p7": [
+  {
+    "name":"The Right Stuff",
+    "artist":"Vanessa Williams",
+    "album":"The Right Stuff",
+    "cover":"https://en.wikipedia.org/wiki/File:Vanessa-Williams---The-Right-Stuff-single-cover.jpg",
+    "genre":"dance-pop, new jack swing, R&B",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=LpUhXiNf41Y"
+  }
+  ],
+"p8": [
+  {
+    "name":"Bad Romance",
+    "artist":"Lady Gaga",
+    "album":"The Fame Monster",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/c/cc/Lady_Gaga_-_Bad_Romance.png",
+    "genre":"electropop, dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=77vZgTC9hgc"
+  }
+  ],
+"p9": [
+  {
+    "name":"Knock on Wood",
+    "artist":"Amii Stewart",
+    "album":"Knock on Wood",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/7/7b/Amii_Stewart_-_Knock_On_Wood.jpg",
+    "genre":"southern r&b, soul",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=cmZuXPwf2M0"
+  }
+  ],
+"p10": [
+  {
+    "name":"Believe",
+    "artist":"Cher",
+    "album":"Believe",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/f/f9/Cher_-_Believe.png",
+    "genre":"electropop, dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=CeoIrncGCNU"
+  }
+  ],
+"p11": [
+  {
+    "name":"Toxic",
+    "artist":"Britney Spears",
+    "album":"In the Zone",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/2/21/Britney_Spears_Toxic.png",
+    "genre":"dance, poptechno, breakbeat, disco",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=7Q0Vg0-e6Ww"
+  }
   ]
 }
