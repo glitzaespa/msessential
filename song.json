@@ -1,12 +1,68 @@
 {
-"melanie1": [
+"p1": [
   {
-    "name":"THE CONTORTIONIST",
-    "artist":"Melanie Martinez",
-    "album":"PORTALS",
-    "cover":"https://ismorbo.com/wp-content/uploads/2023/04/portals.jpg",
-    "genre":"pop, alt",
-    "runway":"forest, elf, nymph, creature"
+    "name":"Supermodel (You Better Work)",
+    "artist":"RuPaul",
+    "album":"Supermodel of the World",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/1/15/Supermodelsingle.jpg",
+    "genre":"dance, pop, house",
+    "runway":"90s, rupaul, glam, models",
+    "cut":"https://www.youtube.com/watch?v=mFlE2owiNhE"
+  }
+  ],
+"p2": [
+  {
+    "name":"Stronger",
+    "artist":"Britney Spears",
+    "album":"Oops!… I Did It Again",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/d/d4/Britney_Spears_-_Stronger.png",
+    "genre":"pop, dance, synth-pop",
+    "runway":"britney, futurism, choreography",
+    "cut":"https://www.youtube.com/watch?v=HUWSAdvJIFQ"
+  }
+  ],
+"p3": [
+  {
+    "name":"Cover Girl (Put the Bass in Your Walk)",
+    "artist":"RuPaul",
+    "album":"Champion",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/9/91/RuPaulChampion-1.png",
+    "genre":"dance, pop, house",
+    "runway":"rupaul, glam, models, magazine, editorial",
+    "cut":"https://www.youtube.com/watch?v=Zojgt8RXpRA"
+  }
+  ],
+"p4": [
+  {
+    "name":"Two of Hearts",
+    "artist":"Stacey Q",
+    "album":"Better Than Heaven",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/c/c7/Stacey_Q_Two_of_Hearts_1.jpg",
+    "genre":"pop, hi-nrg (high energy), dance",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=v2z4sYlZGy8"
+  }
+  ],
+"p5": [
+  {
+    "name":"Black Velvet",
+    "artist":"Alannah Myles",
+    "album":"Alannah Myles",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/c/c7/Stacey_Q_Two_of_Hearts_1.jpg",
+    "genre":"country rock, blues rock",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=adIdiT3Zi3o"
+  }
+  ],
+"p6": [
+  {
+    "name":"Jealous Of My Boogie (Gomi & RasJek Edit)",
+    "artist":"RuPaul",
+    "album":"Jealous of My Boogie - The RuMixes",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/1/14/Jealousofmyboogie-cover.jpg",
+    "genre":"diva house, nu-funk",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=wsV_VoUztds"
   }
   ]
 }
