@@ -48,7 +48,7 @@
     "name":"Black Velvet",
     "artist":"Alannah Myles",
     "album":"Alannah Myles",
-    "cover":"https://upload.wikimedia.org/wikipedia/en/c/c7/Stacey_Q_Two_of_Hearts_1.jpg",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/0/0c/Alannah_Myles_Black_Velvet_Cover.jpg",
     "genre":"country rock, blues rock",
     "runway":"-",
     "cut":"https://www.youtube.com/watch?v=adIdiT3Zi3o"
@@ -157,7 +157,7 @@
   {
     "name":"(You Make Me Feel Like) A Natural Woman",
     "artist":"Aretha Franklin",
-    "album":"The Collection and RuPaul's Go-Go Box Classics",
+    "album":"Lady Soul",
     "cover":"https://upload.wikimedia.org/wikipedia/en/1/17/ArethaFranklinLadySoul.jpg",
     "genre":"soul",
     "runway":"-",
@@ -212,7 +212,7 @@
   {
     "name":"Oops!... I Did It Again",
     "artist":"Britney Spears",
-    "album":"Doll Domination",
+    "album":"Oops!... I Did It Again",
     "cover":"https://upload.wikimedia.org/wikipedia/en/4/46/Oops%21..._I_Did_It_Again.png",
     "genre":"dance pop",
     "runway":"-",
@@ -338,6 +338,776 @@
     "genre":"electropop, dancepop, eurodance",
     "runway":"-",
     "cut":"https://www.youtube.com/watch?v=BuHHePfT0FA&pp=ygUVYXBwbGF1c2UgbGlwIHN5bmMgY3V0"
+  }
+  ],
+"p32": [
+  {
+    "name":"I Will Survive",
+    "artist":"Gloria Gaynor",
+    "album":"Love Tracks",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/7/7d/Love_Tracks_%28Gloria_Gaynor_album%29_%28fair_use%29.jpg",
+    "genre":"disco, pop, soul",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=QGOrYBqPZqs&pp=ygUaaSB3aWxsIHN1cnZpdmUgbGlwc3luYyBjdXQ%3D"
+  }
+  ],
+"p33": [
+  {
+    "name":"Call Me",
+    "artist":"Blondie",
+    "album":"American Gigolo",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/c/c9/Blondie_-_Call_Me.png",
+    "genre":"dance-rock, hard rock, new wave, eurodisco",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=34xKs_1JQTY&pp=ygUTY2FsbCBtZSBsaXBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p34": [
+  {
+    "name":"I Love It",
+    "artist":"Icona Pop featuring Charli XCX",
+    "album":"This Is... Icona Pop",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/9/9e/Icona_Pop_-_I_Love_It.png",
+    "genre":"synth-pop, dance-pop, electropop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=3taxnrtXp8c&pp=ygUVaSBsb3ZlIGl0IGxpcHN5bmMgY3V0"
+  }
+  ],
+"p35": [
+  {
+    "name":"You Make Me Feel (Mighty Real)",
+    "artist":"Sylvester",
+    "album":"Step II",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/8/8d/You_Make_Me_Feel_%28Mighty_Real%29.jpg",
+    "genre":"disco",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=Io1XlVozqbY&pp=ygUoeW91IG1ha2UgbWUgZmVlbCBtaWdodHkgcmVhbCBsaXBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p36": [
+  {
+    "name":"Holding Out For A Hero",
+    "artist":"Bonnie Tyler",
+    "album":"Secret Dreams and Forbidden Fire",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/5/5f/Bonnie_Tyler_Holding_a_Hero.jpg",
+    "genre":"pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=wb_gUVywOL0&pp=ygUiaG9sZGluZyBvdXQgZm9yIGEgaGVybyBsaXBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p37": [
+  {
+    "name":"I Wanna Go",
+    "artist":"Britney Spears",
+    "album":"Femme Fatale",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/b/bc/I_Wanna_Go.png",
+    "genre":"pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=3c16ehji_sg&pp=ygUWaSB3YW5uYSBnbyBsaXBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p38": [
+  {
+    "name":"Woman Up",
+    "artist":"Meghan Trainor",
+    "album":"Thank You",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/3/38/Meghan_Trainor_-_Thank_You_%28Official_Album_Cover%29.png",
+    "genre":"pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=rDvmF-gXy8Y&pp=ygUUd29tYW4gdXAgbGlwc3luYyBjdXQ%3D"
+  }
+  ],
+"p39": [
+  {
+    "name":"Music",
+    "artist":"Madonna",
+    "album":"Music",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/5/5b/Madonna_music_single.png",
+    "genre":"dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=t9eTdKjM1j0&pp=ygUZbXVzaWMgbWFkb25uYSBsaXBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p40": [
+  {
+    "name":"Finally",
+    "artist":"CeCe Peniston",
+    "album":"Finally",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/7/74/Finally_CeCe_Peniston_US_cover_art.jpg",
+    "genre":"house, dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=7wTv9NENpr8&pp=ygUTZmluYWxseSBsaXBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p41": [
+  {
+    "name":"Greedy",
+    "artist":"Ariana Grande",
+    "album":"Dangerous Woman",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/4/4b/Ariana_Grande_-_Dangerous_Woman_%28Official_Album_Cover%29.png",
+    "genre":"disco-pop, r&b, synth-funk",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=1xvjKrllUxY&pp=ygUSZ3JlZWR5IGxpcHN5bmMgY3V0"
+  }
+  ],
+"p42": [
+  {
+    "name":"Cool for the Summer",
+    "artist":"Demi Lovato",
+    "album":"Confident",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/7/73/Demi_Lovato_-_Cool_for_the_Summer_%28Official_Single_Cover%29.png",
+    "genre":"pop, pop-rock",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=j8_NX1YPjUw&pp=ygUgY29vbCBmb3IgdGhlIHN1bW1lciBsaXAgc3luYyBjdXQ%3D"
+  }
+  ],
+"p43": [
+  {
+    "name":"Macho Man",
+    "artist":"The Village People",
+    "album":"Macho Man",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/9/96/Machoman1978.jpg",
+    "genre":"disco",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=mVWViJQEZpY&pp=ygUWbWFjaG8gbWFuIGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p44": [
+  {
+    "name":"So Emotional",
+    "artist":"Whitney Houston",
+    "album":"Whitney",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/f/fa/Whitney_Houston-_So_Emotional.jpg",
+    "genre":"dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=pfW0o7O91F4&pp=ygUZc28gZW1vdGlvbmFsIGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p45": [
+  {
+    "name":"Ain't No Other Man",
+    "artist":"Christina Aguilera",
+    "album":"Back to Basics",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/9/9c/Ain%27t_No_Other_Man_-_Single.PNG",
+    "genre":"pop, funk, r&b",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=edws4nXmTzs&pp=ygUdYWludCBubyBvdGhlciBtYW4gbGlwc3luYyBjdXQ%3D"
+  }
+  ],
+"p46": [
+  {
+    "name":"Celebrity Skin",
+    "artist":"Hole",
+    "album":"Celebrity Skin",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/8/8b/Holecelebskin.jpg",
+    "genre":"alt rock, power pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=yza0Y7BjNr4&pp=ygUaY2VsZWJyaXR5IHNraW4gbGlwc3luYyBjdXQ%3D"
+  }
+  ],
+"p47": [
+  {
+    "name":"Pound the Alarm",
+    "artist":"Nicki Minaj",
+    "album":"Pink Friday: Roman Reloaded",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/1/1a/Nicki_Minaj_Pound_The_Alarm.jpg",
+    "genre":"alt rock, power pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=BVol_c6W3is&pp=ygUbcG91bmQgdGhlIGFsYXJtIGxpcHN5bmMgY3V0"
+  }
+  ],
+"p48": [
+  {
+    "name":"Man! I Feel Like a Woman!",
+    "artist":"Shania Twain",
+    "album":"Come On Over",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/1/1a/Nicki_Minaj_Pound_The_Alarm.jpg",
+    "genre":"country pop, country rock",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=vCU8XT-uCJ0&pp=ygUjbWFuIGkgZmVlbCBsaWtlIGEgd29tYW4gbGlwc3luYyBjdXQ%3D"
+  }
+  ],
+"p49": [
+  {
+    "name":"I'm Coming Out",
+    "artist":"Diana Ross",
+    "album":"Diana",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/0/0c/Diana_ross.jpg",
+    "genre":"disco, funk, soul",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=BGnYwAvGHZI&pp=ygUZaW0gY29taW5nIG91dCBsaXBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p50": [
+  {
+    "name":"Cut to the Feeling",
+    "artist":"Carly Rae Jepsen",
+    "album":"Emotion: Side B",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/8/84/Cut_to_the_Feeling.jpg",
+    "genre":"power pop, synth-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=gHwaLlLZLVk&pp=ygUeY3V0IHRvIHRoZSBmZWVsaW5nIGxpcHN5bmMgY3V0"
+  }
+  ],
+"p51": [
+  {
+    "name":"Groove Is in the Heart",
+    "artist":"Deee-Lite",
+    "album":"World Clique",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/7/7b/Deee-Lite_%E2%80%93_Groove_Is_In_The_Heart_single_cover.png",
+    "genre":"disco, funk, house",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=r5X4KK6qSXk&pp=ygUgZ3Jvb3ZlIGlzIGluIHRoZSBoZWFydCBsaXAgc3luYyA%3D"
+  }
+  ],
+"p52": [
+  {
+    "name":"Groove Is in the Heart",
+    "artist":"Deee-Lite",
+    "album":"World Clique",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/7/7b/Deee-Lite_%E2%80%93_Groove_Is_In_The_Heart_single_cover.png",
+    "genre":"disco, funk, house",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=r5X4KK6qSXk&pp=ygUgZ3Jvb3ZlIGlzIGluIHRoZSBoZWFydCBsaXAgc3luYyA%3D"
+  }
+  ],
+"p53": [
+  {
+    "name":"Call Me Mother",
+    "artist":"RuPaul",
+    "album":"American",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/e/ec/American_%28album%29.jpg",
+    "genre":"dance",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=I22zGAIhaxA&pp=ygUYY2FsbCBtZSBtb3RoZXIgbGlwIHN5bmMg"
+  }
+  ],
+"p54": [
+  {
+    "name":"Bang Bang",
+    "artist":"Jessie J, Ariana Grande and Nicki Minaj",
+    "album":"Sweet Talker",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/3/38/Jessie_J_-_Bang_Bang_%28featuring_Ariana_Grande_%26_Nicki_Minaj%29_Cover_Art.png",
+    "genre":"pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=XZUXj4VX-9I&pp=ygUTYmFuZyBiYW5nIGxpcCBzeW5jIA%3D%3D"
+  }
+  ],
+"p55": [
+  {
+    "name":"The Best of Both Worlds",
+    "artist":"Miley Cyrus (as Hannah Montana)",
+    "album":"Hannah Montana",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/2/22/The_Best_of_Both_Worlds.png",
+    "genre":"pop rock, teen pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=wXy21apDpTY&pp=ygUdYmVzdCBvZiBib3RoIHdvcmxkcyBsaXAgc3luYyA%3D"
+  }
+  ],
+"p56": [
+  {
+    "name":"Work Bitch",
+    "artist":"Britney Spears",
+    "album":"Britney Jean",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/f/fc/Work_Bitch_cover.png",
+    "genre":"EDM",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=AURk4EYc5og&pp=ygUWd29yayBiaXRjaCBsaXBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p57": [
+  {
+    "name":"Sorry Not Sorry",
+    "artist":"Demi Lovato",
+    "album":"Tell Me You Love Me",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/1/13/Sorry_Not_Sorry_%28Official_Single_Cover%29_by_Demi_Lovato.png",
+    "genre":"pop, r&b",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=QJhkwh-AGno&pp=ygUbc29ycnkgbm90IHNvcnJ5IGxpcHN5bmMgY3V0"
+  }
+  ],
+"p58": [
+  {
+    "name":"No Scrubs",
+    "artist":"TLC",
+    "album":"FanMail",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/a/ae/Tlc-noscubs2.jpg",
+    "genre":"pop, r&b",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=GK0Yf_hIxJ4&pp=ygUVbm8gc2NydWJzIGxpcHN5bmMgY3V0"
+  }
+  ],
+"p59": [
+  {
+    "name":"Bootylicious",
+    "artist":"Destiny's Child",
+    "album":"Survivor",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/a/ae/Tlc-noscubs2.jpg",
+    "genre":"pop, r&b",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=dvsZMKS6Joc&pp=ygUYYm9vdHlsaWNpb3VzIGxpcHN5bmMgY3V0"
+  }
+  ],
+"p60": [
+  {
+    "name":"SOS",
+    "artist":"Rihanna",
+    "album":"A Girl like Me",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/5/52/Rihanna_SOS.png",
+    "genre":"dance, r&b",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=vw8op-EKNb0&pp=ygUPc29zIGxpcHN5bmMgY3V0"
+  }
+  ],
+"p61": [
+  {
+    "name":"The Edge of Glory",
+    "artist":"Lady Gaga",
+    "album":"Born This Way",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/d/df/Lady_Gaga_-_The_Edge_of_Glory.png",
+    "genre":"pop, electro-rock, arena rock, disco",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=i7skOLK2ytg&pp=ygUSdGhlIGVkZ2Ugb2YgZ2xvcnkg"
+  }
+  ],
+"p61": [
+  {
+    "name":"The Edge of Glory",
+    "artist":"Lady Gaga",
+    "album":"Born This Way",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/d/df/Lady_Gaga_-_The_Edge_of_Glory.png",
+    "genre":"pop, electro-rock, arena rock, disco",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=i7skOLK2ytg&pp=ygUSdGhlIGVkZ2Ugb2YgZ2xvcnkg"
+  }
+  ],
+"p62": [
+  {
+    "name":"Starships",
+    "artist":"Nicki Minaj",
+    "album":"Pink Friday: Roman Reloaded",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/4/47/Nickiminaj_Starships_Pinkfridayromanreloaded.jpg",
+    "genre":"dance, rap, hip-hop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=Qh6ULzp-Etk&pp=ygUVc3RhcnNoaXBzIGxpcHN5bmMgY3V0"
+  }
+  ],
+"p63": [
+  {
+    "name":"Problem",
+    "artist":"Ariana Grande ft. Iggy Azalea",
+    "album":"My Everything",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/5/52/Ariana_Grande_-_Problem_%28feat._Iggy_Azalea%29.png",
+    "genre":"dance, pop, r&b",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=_1z9jexjSis&pp=ygUTcHJvYmxlbSBsaXBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p64": [
+  {
+    "name":"S&M",
+    "artist":"Rihanna",
+    "album":"Loud",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/0/07/Rihanna_-_S%26M.png",
+    "genre":"eurodance, hi-nrg",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=m8hR78OPZb0&pp=ygUPcyZtIGxpcHN5bmMgY3V0"
+  }
+  ],
+"p65": [
+  {
+    "name":"Firework",
+    "artist":"Katy Perry",
+    "album":"Teenage Dream",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/6/60/Firework_cover.png",
+    "genre":"dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=_WjR4JAlnIw&pp=ygUUZmlyZXdvcmsgbGlwc3luYyBjdXQ%3D"
+  }
+  ],
+"p66": [
+  {
+    "name":"On the Floor",
+    "artist":"Jennifer Lopez featuring Pitbull",
+    "album":"Love?",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/9/91/On_the_Floor.png",
+    "genre":"dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=eKaeSTsPBDg&pp=ygUYb24gdGhlIGZsb29yIGxpcHN5bmMgY3V0"
+  }
+  ],
+"p67": [
+  {
+    "name":"Bring Back My Girls",
+    "artist":"RuPaul",
+    "album":"You're a Winner, Baby",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/7/7f/RuPaul_-_You%27re_a_Winner%2C_Baby.png",
+    "genre":"dance",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=Mxw5O5hNN1M&pp=ygUfYnJpbmcgYmFjayBteSBnaXJscyBsaXBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p68": [
+  {
+    "name":"Survivor",
+    "artist":"Destiny's Child",
+    "album":"Survivor",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/e/ee/Destiny%27s_Child_-_Survivor_%28Single%29.png",
+    "genre":"r&b",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=wQFtN8KKLBk&pp=ygUUc3Vydmlyb3IgbGlwc3luYyBjdXQ%3D"
+  }
+  ],
+"p69": [
+  {
+    "name":"Call Me Maybe",
+    "artist":"Carly Rae Jepsen",
+    "album":"Kiss",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/a/ad/Carly_Rae_Jepsen_-_Call_Me_Maybe.png",
+    "genre":"pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=Nc4X5lN2Kac&pp=ygUZY2FsbCBtZSBtYXliZSBsaXBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p70": [
+  {
+    "name":"Lady Marmalade",
+    "artist":"Christina Aguilera, Pink, Mýa and Lil Kim",
+    "album":"Moulin Rouge!",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/b/b6/MoulinRougeLady.jpg",
+    "genre":"pop, hip hop soul, r&b",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=iAIMSNRr3Bk&pp=ygUabGFkeSBtYXJtYWxhZGUgbGlwc3luYyBjdXQ%3D"
+  }
+  ],
+"p71": [
+  {
+    "name":"Break My Heart",
+    "artist":"Dua Lipa",
+    "album":"Future Nostalgia",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/5/58/Dua_Lipa_-_Break_My_Heart.png",
+    "genre":"pop, dance, disco",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=KHBMLugGcLk&pp=ygUaYnJlYWsgbXkgaGVhcnQgbGlwc3luYyBjdXQ%3D"
+  }
+  ],
+"p72": [
+  {
+    "name":"If U Seek Amy",
+    "artist":"Britney Spears",
+    "album":"Circus",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/1/10/If_U_Seek_Amy.png",
+    "genre":"pop, dance",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=ZwuKUXiQ93g&pp=ygUZaWYgdSBzZWVrIG1heSBsaXBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p73": [
+  {
+    "name":"Fancy",
+    "artist":"Iggy Azalea ft. Charli XCX",
+    "album":"Circus",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/9/94/Iggy_Azalea_-_Fancy.png",
+    "genre":"pop rap",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=kLc1RTJw49A&pp=ygURZmFuY3kgbGlwc3luYyBjdXQ%3D"
+  }
+  ],
+"p74": [
+  {
+    "name":"Hit 'Em Up Style (Oops!)",
+    "artist":"Blu Cantrell",
+    "album":"So Blu",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/a/a1/Hit_em_up_style.jpg",
+    "genre":"r&b",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=4uN_ROf1ihs&pp=ygUcaGl0IGVtIHVwIHN0eWxlIGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p75": [
+  {
+    "name":"BO$$",
+    "artist":"Fifth Harmony",
+    "album":"Reflection",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/e/e3/Fifth_Harmony_Boss_%28Official_Single_Cover%29.png",
+    "genre":"dance pop, r&b",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=0Z1N2aCYpBw&pp=ygURYm9zcyBsaXAgc3luYyBjdXQ%3D"
+  }
+  ],
+"p76": [
+  {
+    "name":"My Humps",
+    "artist":"The Black Eyed Peas",
+    "album":"Monkey Business",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/9/9a/My_Humps.png",
+    "genre":"hip-hop, electropop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=dmDgB0r5NOo&pp=ygUVbXkgaHVtcHMgbGlwIHN5bmMgY3V0"
+  }
+  ],
+"p77": [
+  {
+    "name":"no tears left to cry",
+    "artist":"Ariana Grande",
+    "album":"Sweetener",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/1/15/Ariana_Grande_No_Tears_Left_to_Cry.png",
+    "genre":"dance-pop, r&b",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=IrZ47sV0cTg&pp=ygUhbm8gdGVhcnMgbGVmdCB0byBjcnkgbGlwIHN5bmMgY3V0"
+  }
+  ],
+"p78": [
+  {
+    "name":"Gimme More",
+    "artist":"Britney Spears",
+    "album":"Blackout",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/f/f5/Gimme_More.png",
+    "genre":"dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=tSlUAwrxNM4&pp=ygUXZ2ltbWUgbW9yZSBsaXAgc3luYyBjdXQ%3D"
+  }
+  ],
+"p79": [
+  {
+    "name":"Till the World Ends",
+    "artist":"Britney Spears",
+    "album":"Femme Fatale",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/6/6e/Britney_Spears_-_Till_the_World_Ends.png",
+    "genre":"dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=7XpfWNRw7ik&pp=ygUbdGlsbCB0aGUgd29ybGQgbGlwIHN5bmMgY3V0"
+  }
+  ],
+"p80": [
+  {
+    "name":"I Love It",
+    "artist":"Kylie Minogue",
+    "album":"Disco",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/b/ba/Kylie_Minogue_-_I_Love_It_%282020%29_%28official_promotional_single_cover%29.jpg",
+    "genre":"disco",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=b6pPYrS21Kg&pp=ygUWaSBsb3ZlIGl0IGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p81": [
+  {
+    "name":"My Head & My Heart",
+    "artist":"Ava Max",
+    "album":"Heaven & Hell (Digital Edition)",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/3/3d/Ava_Max_-_My_Head_%26_My_Heart_%28Spotify_cover%29.png",
+    "genre":"dance, pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=_xhDMmpmwRg&pp=ygUhbXkgaGVhZCBhbmQgbXkgaGVhcnQgbGlwIHN5bmMgY3V0"
+  }
+  ],
+"p82": [
+  {
+    "name":"One Way or Another",
+    "artist":"Blondie",
+    "album":"Parallel Lines",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/4/48/Blondie_-_Parallel_Lines.png",
+    "genre":"punk rock, pop-punk",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=GUTppNv5i9Q&pp=ygUfb25lIHdheSBvciBhbm90aGVyIGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p83": [
+  {
+    "name":"good 4 u",
+    "artist":"Olivia Rodrigo",
+    "album":"SOUR",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/3/3e/Olivia_Rodrigo_-_Good_4_U.png",
+    "genre":"rock, pop rock, pop-punk",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=JonIGwFmNC0&pp=ygUVZ29vZCA0IHUgbGlwIHN5bmMgY3V0"
+  }
+  ],
+"p84": [
+  {
+    "name":"Telephone",
+    "artist":"Lady Gaga featuring Beyoncé",
+    "album":"The Fame Monster",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/6/64/Lady_Gaga_Telephone_cover.png",
+    "genre":"dance pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=i0cFuuTEwuc&pp=ygUWdGVsZXBob25lIGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p85": [
+  {
+    "name":"7 rings",
+    "artist":"Ariana Grande",
+    "album":"thank u, next",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/6/64/Lady_Gaga_Telephone_cover.png",
+    "genre":"trap, pop, hip-hop, r&b",
+    "runway":"-",
+    "cut":"https://upload.wikimedia.org/wikipedia/en/b/b7/Ariana_Grande_-_7_rings.png"
+  }
+  ],
+"p86": [
+  {
+    "name":"Ain't No Mountain High Enough (Eric Kupper Instrumental Remix)",
+    "artist":"Diana Ross",
+    "album":"Diana Ross",
+    "cover":"https://m.media-amazon.com/images/I/91-So3ffKTL._UF1000,1000_QL80_.jpg",
+    "genre":"psychedelic soul",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=-t6faNDlL1g&pp=ygUqYWluJ3Qgbm8gbW91bnRhaW4gaGlnaCBlbm91Z2ggbGlwIHN5bmMgY3V0"
+  }
+  ],
+"p87": [
+  {
+    "name":"You Better Run",
+    "artist":"Pat Benatar",
+    "album":"Crimes of Passion",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/4/44/PatBenatar-CrimesOfPassion.jpg",
+    "genre":"hard rock",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=3dP8XUY5yjw"
+  }
+  ],
+"p88": [
+  {
+    "name":"Sweetest Pie",
+    "artist":"Megan Thee Stallion & Dua Lipa",
+    "album":"Traumazine",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/a/a8/Dua_Lipa_and_Megan_Thee_Stallion_-_Sweetest_Pie.png",
+    "genre":"pop rap",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=1bBpsXP0fio&pp=ygUZc3dlZXRlc3QgcGllIGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p89": [
+  {
+    "name":"Single Ladies (Put a Ring on It)",
+    "artist":"Beyoncé",
+    "album":"I Am... Sasha Fierce",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/4/44/Single_Ladies_%28Put_a_Ring_on_It%29_cover.png",
+    "genre":"dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=4xJWaQQzpcU&pp=ygUac2luZ2xlIGxhZGllcyBsaXAgc3luYyBjdXQ%3D"
+  }
+  ],
+"p90": [
+  {
+    "name":"Boss Bitch",
+    "artist":"Doja Cat",
+    "album":"Birds of Prey: The Album",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/7/7f/Doja_Cat_-_Boss_Bitch.png",
+    "genre":"electropop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=84inWD5CWjQ&pp=ygUXYm9zcyBiaXRjaCBsaXAgc3luYyBjdXQ%3D"
+  }
+  ],
+"p91": [
+  {
+    "name":"for the girls",
+    "artist":"Hayley Kiyoko",
+    "album":"PANORAMA",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/8/86/For_the_Girls_Hayley_Kiyoko.jpeg",
+    "genre":"pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=SkFLbowr2ec&pp=ygUaZm9yIHRoZSBnaXJscyBsaXAgc3luYyBjdXQ%3D"
+  }
+  ],
+"p92": [
+  {
+    "name":"When Love Takes Over",
+    "artist":"David Guetta featuring Kelly Rowland",
+    "album":"One Love",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/When_Love_Takes_Over.jpg/330px-When_Love_Takes_Over.jpg",
+    "genre":"dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=XEH56Us24AE&pp=ygUhd2hlbiBsb3ZlIHRha2VzIG92ZXIgbGlwIHN5bmMgY3V0"
+  }
+  ],
+"p93": [
+  {
+    "name":"BREAK MY SOUL",
+    "artist":"Beyoncé",
+    "album":"RENAISSANCE",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/5/5e/Beyonc%C3%A9_-_Break_My_Soul-en.png",
+    "genre":"diva house, dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=QbwCRgN9LgM&pp=ygUaYnJlYWsgbXkgc291bCBsaXAgc3luYyBjdXQ%3D"
+  }
+  ],
+"p94": [
+  {
+    "name":"Shower",
+    "artist":"Becky G",
+    "album":"Shower - Single",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/b/b9/BeckyGShowerCover.png",
+    "genre":"teen pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=QFa8SqlTTGA&pp=ygUTc2hvd2VyIGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p95": [
+  {
+    "name":"Maybe You're the Problem",
+    "artist":"Ava Max",
+    "album":"Diamonds & Dancefloors",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/4/4a/Ava_Max_-_Diamonds_%26_Dancefloors_%28Official_album_cover%29.png",
+    "genre":"synth-pop, dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=lX3XSQxIHpg&pp=ygUlbWF5YmUgeW91J3JlIHRoZSBwcm9ibGVtIGxpcCBzeW5jIGN1dA%3D%3D"
+  }
+  ],
+"p96": [
+  {
+    "name":"Dark Lady",
+    "artist":"Cher",
+    "album":"Dark Lady",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/0/00/Cher1970Stills-83.jpg",
+    "genre":"pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=SPJfU-IfQNY"
+  }
+  ],
+"p97": [
+  {
+    "name":"Emergency",
+    "artist":"Icona Pop",
+    "album":"Emergency",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/2/20/Icona_Pop_-_Emergency.png",
+    "genre":"electro swing",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=43PQZj6MtHE"
+  }
+  ],
+"p98": [
+  {
+    "name":"Flowers",
+    "artist":"Miley Cyrus",
+    "album":"Endless Summer Vacation",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/0/00/Miley_Cyrus_-_Flowers_%28digital_single%29.png",
+    "genre":"disco-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=O9ZQ3FGrm-o"
+  }
+  ],
+"p99": [
+  {
+    "name":"Hallucinate",
+    "artist":"Dua Lipa",
+    "album":"Future Nostalgia",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/e/ed/Dua_Lipa_-_Hallucinate.png",
+    "genre":"disco-house",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=E04Wa6JvKh0&pp=ygUMbGlwIHN5bmMgY3V0"
+  }
+  ],
+"p100": [
+  {
+    "name":"Come Through",
+    "artist":"Priyanka featuring Lemon",
+    "album":"Taste Test - EP",
+    "cover":"https://upload.wikimedia.org/wikipedia/en/5/5e/Priyanka_Taste_Test.jpg",
+    "genre":"dance-pop",
+    "runway":"-",
+    "cut":"https://www.youtube.com/watch?v=W6TfUgtcWI0&pp=ygUMbGlwIHN5bmMgY3V0"
   }
   ]
 }
